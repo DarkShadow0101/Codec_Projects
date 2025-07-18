@@ -1,9 +1,3 @@
-This looks like a fantastic project\! I'll update the README to include the dark mode feature, clarify the email/password authentication, and add the file sharing functionality with link-based sharing and persistent access to previously uploaded files.
-
-Here's the updated README:
-
------
-
 # 🎨 Beautiful Animated Login Page
 
 A stunning login page with dynamic animations built with React.js, Node.js, and Firebase authentication. Features glass morphism effects, floating particles, and smooth transitions.
