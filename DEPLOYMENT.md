@@ -14,7 +14,7 @@ git add .
 git commit -m "Initial commit: Beautiful Animated Login Page"
 
 # Add your GitHub repository as remote
-git remote add origin https://github.com/proobie/Puni-Bhai-login-Page.git
+git remote add origin https://github.com/DarkShadow0101/Codec_Projects/tree/master
 
 # Push to GitHub
 git push -u origin main
