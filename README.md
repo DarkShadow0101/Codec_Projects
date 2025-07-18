@@ -135,7 +135,7 @@ npm start
 
       - Go to [Vercel](https://vercel.com)
       - Import your GitHub repository
-      - Select the repository: `proobie/Puni-Bhai-login-Page`
+      - Select the repository: `DarkShadow0101/Codec_Projects`
 
 2.  **Configure Build Settings:**
 
