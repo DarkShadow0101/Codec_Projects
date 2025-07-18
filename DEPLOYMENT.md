@@ -23,7 +23,7 @@ git push -u origin main
 ### 2. GitHub Repository Structure
 Your repository should have this structure:
 ```
-Puni-Bhai-login-Page/
+login-Page-main/
 ├── client/                 # React frontend
 │   ├── public/
 │   ├── src/
@@ -43,7 +43,7 @@ Puni-Bhai-login-Page/
 ### 1. Connect to Vercel
 1. Go to [Vercel Dashboard](https://vercel.com/dashboard)
 2. Click "New Project"
-3. Import your GitHub repository: `proobie/Puni-Bhai-login-Page`
+3. Import your GitHub repository: `DarkShadow0101/Codec_Projects`
 4. Select the repository
 
 ### 2. Configure Build Settings
