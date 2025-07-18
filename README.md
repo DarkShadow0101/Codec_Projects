@@ -55,8 +55,8 @@ A stunning login page with dynamic animations built with React.js, Node.js, and 
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/proobie/Puni-Bhai-login-Page.git
-cd Puni-Bhai-login-Page
+git clone https://github.com/DarkShadow0101/Codec_Projects
+cd login-Page
 ```
 
 ### 2\. Install Dependencies
