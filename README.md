@@ -56,7 +56,7 @@ A stunning login page with dynamic animations built with React.js, Node.js, and 
 
 ```bash
 git clone https://github.com/DarkShadow0101/Codec_Projects
-cd login-Page
+cd login-Page-main
 ```
 
 ### 2\. Install Dependencies
@@ -277,4 +277,4 @@ MIT License - see LICENSE file for details
 
 -----
 
-Made with ❤️ by [Puni Bhai](https://github.com/proobie)
+Made with ❤️  (https://github.com/DarkShadow0101)
